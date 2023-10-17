@@ -2,7 +2,7 @@ package Bronze5;
 
 import java.util.Scanner;
 
-public class Baek_2738 {
+public class Baek_2738_scan {
 
 	public static void main(String[] args) {
 		Scanner scan = new Scanner(System.in);
